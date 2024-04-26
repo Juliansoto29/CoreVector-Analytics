@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "VectorCore Analytics"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: proyectos.qmd
+        text: Portafolio
+    tools:
+    - icon: github
+    href : https://github.com/Juliansoto29
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
