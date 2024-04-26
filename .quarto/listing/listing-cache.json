@@ -1,0 +1,7 @@
+{
+  "listingMap": {
+    "proyectos.qmd": [
+      "post_proyectos/*/index.qmd"
+    ]
+  }
+}
